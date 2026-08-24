@@ -1,0 +1,6 @@
+{
+  "name": "AKAI AI Voice Learning",
+  "description": "Mobile web application for AI voice chat, vocabulary vault, job interview practice, and streak tracking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
